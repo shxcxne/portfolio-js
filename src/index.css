@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    --bg-primary: #0d1b2a;
+    --bg-secondary: #1b263b;
+    --bg-third: #415a77;
+    --text-primary: #e0e1dd;
+    --text-secondary: #778da9;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+}
