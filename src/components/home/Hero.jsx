@@ -11,8 +11,8 @@ export const Hero = () => {
                     <h1 className='text-[--text-secondary] text-3xl md:text-7xl font-bold mb-4 '>Software Developer</h1>
                     <p className='text-sm md:text-lg mb-4'>Durango, México</p>
                     <div className="flex justify-center md:justify-end gap-5">
-                        <a href="https://www.instagram.com/rcllrhz/" target="_blank"><img className="size-9 bg-[--text-secondary] rounded-lg shadow-lg shadow-[--text-secondary] hover:-translate-y-1 hover:scale-110 " src="src\assets\img\instagram_icon.svg" alt="" /></a>
-                        <a href="https://www.linkedin.com/in/raul-calleros-hdez/" target="_blank"><img className="size-9 bg-[--text-secondary] rounded-lg shadow-lg shadow-[--text-secondary] hover:-translate-y-1 hover:scale-110 " src="src\assets\img\linkedin_icon.svg" alt="" /></a>
+                        <a href="https://www.instagram.com/rcllrhz/" target="_blank"><img className="size-9 bg-[--text-secondary] rounded-lg shadow-lg shadow-[--text-secondary] hover:-translate-y-1 hover:scale-110 " src="\img\instagram_icon.svg" alt="" /></a>
+                        <a href="https://www.linkedin.com/in/raul-calleros-hdez/" target="_blank"><img className="size-9 bg-[--text-secondary] rounded-lg shadow-lg shadow-[--text-secondary] hover:-translate-y-1 hover:scale-110 " src="\img\linkedin_icon.svg" alt="" /></a>
                     </div>
 
                 </div>
