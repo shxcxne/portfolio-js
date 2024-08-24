@@ -1,7 +1,7 @@
 export const Services = () => {
     return (
         <>
-            <section className='max-w-7xl mx-5 md:mx-10 h-auto md:h-screen mb-6 '>
+            <section id="services" className='max-w-7xl mx-5 md:mx-10 h-auto md:h-screen mb-6 '>
                 <h1 className='text-[--text-primary] text-end text-3xl md:text-7xl font-bold mb-6'>Services</h1>
                 <div className='md:grid grid-cols-2'>
                     <div className='m-auto space-y-2 md:space-y-4 '>

@@ -1,7 +1,7 @@
 export const Projects = () => {
     return (
         <>
-            <section className='max-w-7xl h-auto md:h-screen content-center mx-5 md:mx-10 mb-6'>
+            <section id="projects" className='max-w-7xl h-auto md:h-screen content-center mx-5 md:mx-10 mb-6'>
                 <h1 className='text-center text-3xl md:text-7xl font-bold mb-6'>Portfolio</h1>
                 <div className='block md:grid grid-cols-3 md:gap-4'>
                     <article className='p-1 m-auto'>
